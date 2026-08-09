@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-wjv229.leogaming.cfd/sitemap.xml
